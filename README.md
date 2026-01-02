@@ -20,7 +20,7 @@ Aspiring Full-Stack Developer | Frontend-focused
 - Frontend: React, JavaScript
 - Backend: Node.js, Express
 - Database: MongoDB
-- Tools: Git, GitHub
+- Tools: Git, GitHub, Postman
 
 ### Contact
 - Email: nguyenquangdat2842003@gmail.com
